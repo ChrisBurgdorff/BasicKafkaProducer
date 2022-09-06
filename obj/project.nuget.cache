@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "zkg2sqVVPgX+rOoma76zfddJ3f2CuuHX8PbfOCDtfbSfXIIiTXm2BkZyKjwgpTv9s6rCb2KC1aiYOIRoTQ9Wjw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cburg\\source\\repos\\Kafka Dotnet Simple Example\\Kafka Dotnet Simple Example.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cburg\\.nuget\\packages\\confluent.kafka\\1.9.2\\confluent.kafka.1.9.2.nupkg.sha512",
+    "C:\\Users\\cburg\\.nuget\\packages\\librdkafka.redist\\1.9.2\\librdkafka.redist.1.9.2.nupkg.sha512",
+    "C:\\Users\\cburg\\.nuget\\packages\\system.memory\\4.5.0\\system.memory.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

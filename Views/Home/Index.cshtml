@@ -1,0 +1,14 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1> 
+    <form asp-controller="Home" asp-action="SendEvent" method="post">
+        <div class="form-group">
+            <small class="form-text text-muted">This will act as a <Em>Kafka Producer</Em> and send this message to the topic <em>dotnettopic.</em></small>
+            <input type="text" placeholder="Message" name="eventMessage" />
+            <input type="submit" value="Send to Kafka" class="btn btn-primary" />
+        </div>
+    </form>    
+</div>
